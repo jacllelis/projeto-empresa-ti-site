@@ -1,54 +1,47 @@
-# 🌐 Projeto Empresa TI — Site Institucional
+# 🌐 Site Institucional - Empresa de TI
 
-Este projeto é um site institucional fictício para uma empresa de tecnologia da informação (TI), desenvolvido com **HTML5 puro**. Ele representa a base estrutural de um site corporativo e será futuramente aprimorado com recursos visuais e interativos.
+Este é um site fictício de uma empresa de tecnologia da informação. O projeto foi feito usando apenas **HTML5**, com o objetivo de praticar a criação de páginas web e organização de conteúdo.
 
-🔗 **Acesse o site online:**  
+🔗 **Acesse o site:**  
 👉 [https://jacllelis.github.io/projeto-empresa-ti-site/](https://jacllelis.github.io/projeto-empresa-ti-site/)
 
 ---
 
-## 📁 Estrutura do Projeto
+## 📄 Páginas do Site
 
-- `index.html` — Página inicial com apresentação da empresa  
-- `servicos.html` — Página listando os serviços oferecidos  
-- `contato.html` — Página com formulário de contato  
+- `index.html` — Página inicial da empresa  
+- `servicos.html` — Lista dos serviços oferecidos  
+- `contato.html` — Informações para contato  
 
----
-
-## 🎯 Objetivo
-
-Este projeto foi criado com os seguintes propósitos:
-
-- Praticar HTML5 e estrutura semântica
-- Simular um site institucional básico
-- Criar uma base sólida para futuras melhorias com CSS e JavaScript
+As páginas estão conectadas por **links internos**, permitindo navegar entre elas sem sair do site.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas (até o momento)
+## ✉️ Funcionalidade extra
+
+O formulário da página de contato usa o recurso `mailto`, que abre o programa de e-mail do usuário para enviar a mensagem diretamente.
+
+---
+
+## 💻 Tecnologias usadas
 
 - HTML5  
-- Git e GitHub  
-- GitHub Pages para hospedagem gratuita
+- GitHub Pages (para colocar o site no ar)
 
 ---
 
-## 🚀 Melhorias Futuras (Planejadas)
+## 🔧 Melhorias planejadas
 
-- ✅ Adição de **CSS3** em arquivo externo (`style.css`)
-- ✅ Implementação de **responsividade com Flexbox e Grid**
-- ✅ Inclusão de **JavaScript** para interações dinâmicas
-- ✅ Aplicação de **design responsivo** para dispositivos móveis
-- ✅ Inserção de **imagens, ícones e favicon**
-- ✅ Aprimoramento de **acessibilidade e SEO**
-- ✅ Possível uso de frameworks como **Bootstrap** ou **Tailwind CSS**
-
----
-
-## 📌 Status do Projeto
-
-🟡 **Em desenvolvimento**  
-- Estrutura HTML pronta  
-- Estilização e melhorias visuais previstas para as próximas versões
+- Adicionar **CSS** para estilizar o site  
+- Tornar o layout **responsivo** (adaptado para celular)  
+- Usar **JavaScript** para interações  
+- Inserir **imagens, ícones e favicon**  
+- Melhorar a **acessibilidade e SEO**  
+- Testar o uso de frameworks como **Bootstrap** ou **Tailwind**
 
 ---
+
+## 📌 Status
+
+🟡 Projeto em desenvolvimento (estrutura pronta, estilização em breve)
+
