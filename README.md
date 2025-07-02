@@ -13,8 +13,6 @@ Este projeto é um site institucional fictício para uma empresa de tecnologia d
 - `servicos.html` — Página listando os serviços oferecidos  
 - `contato.html` — Página com formulário de contato  
 
-> **Obs.:** Ainda **não foi adicionada nenhuma pasta de imagens** ou arquivo CSS externo.
-
 ---
 
 ## 🎯 Objetivo
